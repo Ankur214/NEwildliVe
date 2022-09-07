@@ -1,2 +1,5 @@
+project Title: Welcome to wildlife of NE India
 # NEwildliVe
-A platform  to introduce North East India as tourist space . Articles around the places and journey experience  would be described in the site
+North East India is rich biodiversity hub with many National parks and Sanctuaries . This site helps the tourists to know about them and give and read feedbacks.
+Food and Lodging nearby would be supported.
+Articles would be published about the trips
